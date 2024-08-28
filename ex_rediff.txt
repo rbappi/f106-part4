@@ -1,0 +1,14 @@
+4
+b4,c4,c3
+b1,c1,b2
+
+
+15:10:21: Joueur 1: c1>d2>d4
+15:10:25: Joueur 2: b4>a3>a4
+15:10:46: Joueur 1: b2>c1>b2
+15:10:50: Joueur 2: c4>b3>d1
+15:10:56: Joueur 1: d2>d3>c4
+15:10:59: Joueur 2: b3>a2>a1
+15:11:08: Joueur 1: c1>d2>c2
+15:11:12: Joueur 2: a3>b3>b4
+15:11:19: Joueur 1: b1>c1>b1
